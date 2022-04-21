@@ -1,0 +1,38 @@
+
+.heading
+{
+font-size: 40px;
+width: 400;
+border-radius: 5px;
+margin: 0px;
+background-color: rgb(0, 119, 255);
+font-family: 'Bebas Neue', cursive;
+}
+
+hr { 
+    display: block; 
+    height: 1px;
+    border: 1; 
+    border-top: 7px solid rgb(0, 132, 255);
+    margin: 1em 0; padding: 0; 
+}
+  
+canvas{
+    box-shadow: 10px 10px 10px rgb(0, 204, 255);
+    border-radius: 10px;
+    margin-top: 30px;
+}
+
+body{
+    background-size: cover;
+    background-position: center;
+}
+
+#status, #numofobjects
+{
+font-size: 18px;
+}
+
+
+
+
